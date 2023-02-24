@@ -1,3 +1,5 @@
+package JavaPodstawa;
+
 public class zad19 {
     public static void main(String[] args) {
         double akcje = 600 * 21.77;

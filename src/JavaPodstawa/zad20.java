@@ -1,3 +1,5 @@
+package JavaPodstawa;
+
 public class zad20 {
     public static void main(String[] args) {
         System.out.println("Liczba ankietowanych osób ogólnie: 12467");

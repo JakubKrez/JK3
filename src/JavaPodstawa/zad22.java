@@ -1,3 +1,5 @@
+package JavaPodstawa;
+
 import  java.util.Scanner;
 public class zad22 {
     public static void main(String[] args) {
