@@ -17,7 +17,7 @@ public class petla3 {
 
             for (int i=1; i<=godziny; i++){
                 int odleglosc = szybkosc * i;
-                zapis.println(i+ " "+odleglosc);
+                zapis.println(i+ " aaaaaaabbbbbbbbccccccsdasd"+odleglosc);
             }
             zapis.close();
         }
